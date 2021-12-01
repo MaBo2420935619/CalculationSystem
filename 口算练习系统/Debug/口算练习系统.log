@@ -1,0 +1,4 @@
+﻿  main.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+C:\Program Files\MySQL\MySQL Server 8.0\lib\libmysql.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+E:\learning\c++\口算练习系统\Debug\口算练习系统.exe : fatal error LNK1120: 1 个无法解析的外部命令

@@ -1,0 +1,53 @@
+﻿  main.cpp
+e:\learning\c++\口算练习系统\口算练习系统\view.h(109): warning C4101: “a”: 未引用的局部变量
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(136): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“my_ulonglong”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(136): note: 请考虑在格式字符串中使用“%lld”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(136): note: 请考虑在格式字符串中使用“%Id”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(136): note: 请考虑在格式字符串中使用“%I64d”
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(206): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“my_ulonglong”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(206): note: 请考虑在格式字符串中使用“%lld”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(206): note: 请考虑在格式字符串中使用“%Id”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(206): note: 请考虑在格式字符串中使用“%I64d”
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(373): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“my_ulonglong”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(373): note: 请考虑在格式字符串中使用“%lld”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(373): note: 请考虑在格式字符串中使用“%Id”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(373): note: 请考虑在格式字符串中使用“%I64d”
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(496): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“my_ulonglong”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(496): note: 请考虑在格式字符串中使用“%lld”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(496): note: 请考虑在格式字符串中使用“%Id”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(496): note: 请考虑在格式字符串中使用“%I64d”
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(593): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“my_ulonglong”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(593): note: 请考虑在格式字符串中使用“%lld”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(593): note: 请考虑在格式字符串中使用“%Id”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(593): note: 请考虑在格式字符串中使用“%I64d”
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(720): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“my_ulonglong”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(720): note: 请考虑在格式字符串中使用“%lld”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(720): note: 请考虑在格式字符串中使用“%Id”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(720): note: 请考虑在格式字符串中使用“%I64d”
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(747): warning C4101: “s”: 未引用的局部变量
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(813): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“my_ulonglong”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(813): note: 请考虑在格式字符串中使用“%lld”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(813): note: 请考虑在格式字符串中使用“%Id”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(813): note: 请考虑在格式字符串中使用“%I64d”
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(840): warning C4101: “s”: 未引用的局部变量
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(908): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“my_ulonglong”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(908): note: 请考虑在格式字符串中使用“%lld”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(908): note: 请考虑在格式字符串中使用“%Id”
+  e:\learning\c++\口算练习系统\口算练习系统\userdao.h(908): note: 请考虑在格式字符串中使用“%I64d”
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(932): warning C4101: “s”: 未引用的局部变量
+e:\learning\c++\口算练习系统\口算练习系统\main.cpp(266): warning C4101: “opSympl”: 未引用的局部变量
+e:\learning\c++\口算练习系统\口算练习系统\main.cpp(444): warning C4101: “opSympl”: 未引用的局部变量
+e:\learning\c++\口算练习系统\口算练习系统\title.h(24): warning C4715: “getRandm”: 不是所有的控件路径都返回值
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(237): warning C4715: “QueryDatabase2”: 不是所有的控件路径都返回值
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(174): warning C4715: “QueryDatabase1”: 不是所有的控件路径都返回值
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(647): warning C4715: “lookFirstlGrade”: 不是所有的控件路径都返回值
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(548): warning C4715: “lookPersonalHistory”: 不是所有的控件路径都返回值
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(421): warning C4715: “loginDao”: 不是所有的控件路径都返回值
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(450): warning C4715: “registerDao”: 不是所有的控件路径都返回值
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(681): warning C4715: “setPracticeInfo”: 不是所有的控件路径都返回值
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(774): warning C4715: “selectMaxFreq”: 不是所有的控件路径都返回值
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(953): warning C4715: “getBestGrade”: 不是所有的控件路径都返回值
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(869): warning C4715: “getUserLevel”: 不是所有的控件路径都返回值
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(974): warning C4715: “setBestGrade”: 不是所有的控件路径都返回值
+e:\learning\c++\口算练习系统\口算练习系统\userdao.h(995): warning C4715: “setFreqScore”: 不是所有的控件路径都返回值
+  口算练习系统.vcxproj -> E:\learning\c++\口算练习系统\x64\Debug\口算练习系统.exe
